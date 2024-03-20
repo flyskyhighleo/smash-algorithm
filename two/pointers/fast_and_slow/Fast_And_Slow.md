@@ -22,7 +22,13 @@ while (fast < nums.length) {
 	...
 }
 ```
-快慢指针的应用场景非常多，用法灵活， 需要根据题目，来具体考虑用哪种模式，切忌死记硬背。
-# 例题
+快慢指针并不是只有 
+```
+fast = fast.next.next
+slow = slow.next
+```
+这一种形式。应用场景非常多，用法灵活， 需要根据题目，来具体考虑用哪种模式，切忌死记硬背。
+# 例题 
+https://leetcode.com/tag/two-pointers/
 1. Middle of the Linked List
 2. …
