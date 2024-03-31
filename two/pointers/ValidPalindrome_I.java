@@ -1,4 +1,4 @@
-package two.pointers.left_and_right;
+package two.pointers;
 
 /*
 https://leetcode.com/problems/valid-palindrome/description/
