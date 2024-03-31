@@ -1,4 +1,4 @@
-package two.pointers.fast_and_slow;
+package two.pointers;
 
 /*
 https://leetcode.com/problems/next-permutation/description/

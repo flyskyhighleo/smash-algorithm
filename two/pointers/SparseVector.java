@@ -1,4 +1,4 @@
-package two.pointers.fast_and_slow;
+package two.pointers;
 
 import java.util.ArrayList;
 import java.util.List;
